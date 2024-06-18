@@ -1,0 +1,10 @@
+2024/06/04-15:07:58.766 7f79b Creating DB /home/ash/.config/chromium/Default/WebStorage/9/IndexedDB/indexeddb.leveldb since it was missing.
+2024/06/04-15:07:58.769 7f79b Reusing MANIFEST /home/ash/.config/chromium/Default/WebStorage/9/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/06/04-15:07:58.776 7f7ad Level-0 table #5: started
+2024/06/04-15:07:58.777 7f7ad Level-0 table #5: 1056 bytes OK
+2024/06/04-15:07:58.779 7f7ad Delete type=0 #3
+2024/06/04-15:07:58.779 7f79b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/04-15:08:06.176 7f79b Level-0 table #7: started
+2024/06/04-15:08:06.178 7f79b Level-0 table #7: 1545 bytes OK
+2024/06/04-15:08:06.179 7f79b Delete type=0 #4
+2024/06/04-15:08:06.180 7f79b Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

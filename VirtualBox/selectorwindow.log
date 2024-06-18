@@ -1,0 +1,19 @@
+00:00:00.566793 VirtualBox GUI VM Selector Window 7.0.18 r162988 linux.amd64 (May  3 2024 17:29:05) release log
+00:00:00.566796 Log opened 2024-05-14T08:05:41.451824000Z
+00:00:00.566797 Build Type: release
+00:00:00.566800 OS Product: Linux
+00:00:00.566801 OS Release: 6.8.9-arch1-1
+00:00:00.566803 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 02 May 2024 17:49:46 +0000
+00:00:00.566843 DMI Product Name: Zenbook UM5401QAB_UM5401QA
+00:00:00.566863 DMI Product Version: 1.0       
+00:00:00.566872 Firmware type: UEFI
+00:00:00.567281 Secure Boot: Disabled
+00:00:00.567370 Host RAM: 15391MB (15.0GB) total, 13185MB (12.8GB) available
+00:00:00.567376 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.567377 Process ID: 5294
+00:00:00.567378 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.567417 Qt version: 5.15.13
+00:00:00.569048 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.581803 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.581839 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.449729 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 457x285 x 720x450

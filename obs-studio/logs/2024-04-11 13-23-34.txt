@@ -1,0 +1,285 @@
+13:23:34.726: [Safe Mode] Unclean shutdown detected!
+13:23:37.626: [Safe Mode] User has launched in Safe Mode.
+13:23:37.632: Platform: Wayland
+13:23:37.632: CPU Name: AMD Ryzen 5 5600H with Radeon Graphics
+13:23:37.632: CPU Speed: 2045.568MHz
+13:23:37.633: Physical Cores: 6, Logical Cores: 12
+13:23:37.633: Physical Memory: 15391MB Total, 9937MB Free
+13:23:37.633: Kernel Version: Linux 6.8.4-arch1-1
+13:23:37.633: Distribution: "Arch Linux" Unknown
+13:23:37.633: Desktop Environment: Hyprland (hyprland)
+13:23:37.633: Session Type: wayland
+13:23:37.635: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+13:23:37.635: Portable mode: false
+13:23:37.635: Safe Mode enabled.
+13:23:37.679: OBS 30.1.1-1 (linux)
+13:23:37.679: ---------------------------------
+13:23:37.680: ---------------------------------
+13:23:37.680: audio settings reset:
+13:23:37.680: 	samples per sec: 48000
+13:23:37.680: 	speakers:        2
+13:23:37.680: 	max buffering:   960 milliseconds
+13:23:37.680: 	buffering type:  dynamically increasing
+13:23:37.685: ---------------------------------
+13:23:37.685: Initializing OpenGL...
+13:23:37.685: Using EGL/Wayland
+13:23:37.703: Initialized EGL 1.5
+13:23:37.723: Loading up OpenGL on adapter AMD AMD Radeon Graphics (radeonsi, renoir, LLVM 17.0.6, DRM 3.57, 6.8.4-arch1-1)
+13:23:37.723: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.0.4-arch1.2, shading language 4.60
+13:23:37.774: ---------------------------------
+13:23:37.774: video settings reset:
+13:23:37.774: 	base resolution:   1920x1080
+13:23:37.774: 	output resolution: 1280x720
+13:23:37.774: 	downscale filter:  Bicubic
+13:23:37.774: 	fps:               60/1
+13:23:37.774: 	format:            NV12
+13:23:37.774: 	YUV mode:          Rec. 709/Partial
+13:23:37.775: NV12 texture support enabled
+13:23:37.775: P010 texture support not available
+13:23:37.780: Audio monitoring device:
+13:23:37.780: 	name: Default
+13:23:37.780: 	id: default
+13:23:37.780: ---------------------------------
+13:23:37.794: Failed to load 'en-US' text for module: 'decklink-captions.so'
+13:23:37.807: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+13:23:37.819: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+13:23:37.819: Failed to initialize module 'decklink.so'
+13:23:37.832: Skipping module 'frontend-tools', not on safe list
+13:23:37.919: [pipewire] Available captures:
+13:23:37.919: [pipewire]     - Desktop capture
+13:23:38.036: VAAPI: API version 1.21
+13:23:38.039: FFmpeg VAAPI H264 encoding supported
+13:23:38.052: FFmpeg VAAPI AV1 encoding not supported
+13:23:38.063: FFmpeg VAAPI HEVC encoding supported
+13:23:38.252: ---------------------------------
+13:23:38.252:   Loaded Modules:
+13:23:38.252:     text-freetype2.so
+13:23:38.252:     rtmp-services.so
+13:23:38.252:     obs-x264.so
+13:23:38.252:     obs-webrtc.so
+13:23:38.252:     obs-vst.so
+13:23:38.252:     obs-transitions.so
+13:23:38.252:     obs-qsv11.so
+13:23:38.252:     obs-outputs.so
+13:23:38.253:     obs-libfdk.so
+13:23:38.253:     obs-filters.so
+13:23:38.253:     obs-ffmpeg.so
+13:23:38.253:     linux-v4l2.so
+13:23:38.253:     linux-pulseaudio.so
+13:23:38.253:     linux-pipewire.so
+13:23:38.253:     linux-jack.so
+13:23:38.253:     linux-capture.so
+13:23:38.253:     linux-alsa.so
+13:23:38.253:     image-source.so
+13:23:38.253:     decklink-output-ui.so
+13:23:38.253:     decklink-captions.so
+13:23:38.253: ---------------------------------
+13:23:38.253: QWidget::setTabOrder: 'first' and 'second' must be in the same window
+13:23:38.254: ==== Startup complete ===============================================
+13:23:38.305: All scene data cleared
+13:23:38.305: ------------------------------------------------
+13:23:38.312: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.4) 15.0.0'
+13:23:38.312: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+13:23:38.312: pulse-input: Started recording from 'alsa_output.pci-0000_04_00.6.analog-stereo.monitor' (default)
+13:23:38.312: [Loaded global audio device]: 'Desktop Audio'
+13:23:38.313: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.4) 15.0.0'
+13:23:38.313: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+13:23:38.313: pulse-input: Started recording from 'alsa_input.pci-0000_04_00.6.analog-stereo' (default)
+13:23:38.313: [Loaded global audio device]: 'Mic/Aux'
+13:23:38.314: PipeWire initialized
+13:23:38.316: Switched to scene 'Scene'
+13:23:38.316: ------------------------------------------------
+13:23:38.316: Loaded scenes:
+13:23:38.316: - scene 'Scene':
+13:23:38.316:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+13:23:38.316: ------------------------------------------------
+13:23:38.352: [pipewire] Screencast session created
+13:23:38.449: [pipewire] Asking for desktop
+13:23:38.463: [pipewire] desktop selected, setting up screencast
+13:23:38.473: [pipewire] Server version: 1.0.4
+13:23:38.473: [pipewire] Library version: 1.0.4
+13:23:38.473: [pipewire] Header version: 1.0.4
+13:23:38.474: [pipewire] Created stream 0x5908a07bbf40
+13:23:38.474: [pipewire] Stream 0x5908a07bbf40 state: "connecting" (error: none)
+13:23:38.474: [pipewire] Playing stream 0x5908a07bbf40
+13:23:38.474: [pipewire] Stream 0x5908a07bbf40 state: "paused" (error: none)
+13:23:38.482: [pipewire] Negotiated format:
+13:23:38.483: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+13:23:38.483: [pipewire]     Modifier: 0x0
+13:23:38.483: [pipewire]     Size: 2880x1800
+13:23:38.483: [pipewire]     Framerate: 0/1
+13:23:38.483: [pipewire] Negotiated format:
+13:23:38.483: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+13:23:38.483: [pipewire]     Modifier: 0x20000044051ba01
+13:23:38.483: [pipewire]     Size: 2880x1800
+13:23:38.483: [pipewire]     Framerate: 0/1
+13:23:38.485: [pipewire] Stream 0x5908a07bbf40 state: "streaming" (error: none)
+13:23:38.961: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+13:23:38.961: 
+13:24:42.071: ---------------------------------
+13:24:42.071: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:24:42.071: [x264 encoder: 'simple_video_recording'] profile: high
+13:24:42.077: [x264 encoder: 'simple_video_recording'] settings:
+13:24:42.077: 	rate_control: CRF
+13:24:42.077: 	bitrate:      0
+13:24:42.077: 	buffer size:  0
+13:24:42.077: 	crf:          21
+13:24:42.077: 	fps_num:      60
+13:24:42.077: 	fps_den:      1
+13:24:42.077: 	width:        1280
+13:24:42.077: 	height:       720
+13:24:42.077: 	keyint:       250
+13:24:42.077: 
+13:24:42.092: libfdk_aac encoder created
+13:24:42.092: libfdk_aac bitrate: 192, channels: 2
+13:24:42.092: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+13:24:42.092: 	movflags=frag_keyframe+empty_moov+delay_moov
+13:24:42.093: ==== Recording Start ===============================================
+13:24:42.094: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/ash/2024-04-11 13-24-42.mp4'...
+13:24:42.103: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:24:47.809: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/ash/2024-04-11 13-24-42.mp4' stopped
+13:24:47.809: Output 'simple_file_output': stopping
+13:24:47.809: Output 'simple_file_output': Total frames output: 311
+13:24:47.809: Output 'simple_file_output': Total drawn frames: 343
+13:24:47.809: ==== Recording Stop ================================================
+13:24:47.821: libfdk_aac encoder destroyed
+13:25:02.225: adding 64 milliseconds of audio buffering, total audio buffering is now 106 milliseconds (source: Desktop Audio)
+13:25:02.225: 
+13:25:54.724: alsa-input: PCM 'default' rate set to 44100
+13:25:54.724: alsa-input: PCM 'default' channels set to 2
+13:25:54.743: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'Scene'
+13:26:05.647: ---------------------------------
+13:26:05.647: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:26:05.647: [x264 encoder: 'simple_video_recording'] profile: high
+13:26:05.647: [x264 encoder: 'simple_video_recording'] settings:
+13:26:05.647: 	rate_control: CRF
+13:26:05.647: 	bitrate:      0
+13:26:05.647: 	buffer size:  0
+13:26:05.647: 	crf:          21
+13:26:05.647: 	fps_num:      60
+13:26:05.647: 	fps_den:      1
+13:26:05.647: 	width:        1280
+13:26:05.647: 	height:       720
+13:26:05.647: 	keyint:       250
+13:26:05.647: 
+13:26:05.657: libfdk_aac encoder created
+13:26:05.657: libfdk_aac bitrate: 192, channels: 2
+13:26:05.658: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+13:26:05.658: 	movflags=frag_keyframe+empty_moov+delay_moov
+13:26:05.659: ==== Recording Start ===============================================
+13:26:05.659: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/ash/2024-04-11 13-26-05.mp4'...
+13:26:05.668: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:26:08.336: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/ash/2024-04-11 13-26-05.mp4' stopped
+13:26:08.336: Output 'simple_file_output': stopping
+13:26:08.336: Output 'simple_file_output': Total frames output: 128
+13:26:08.337: Output 'simple_file_output': Total drawn frames: 161
+13:26:08.337: ==== Recording Stop ================================================
+13:26:08.352: libfdk_aac encoder destroyed
+13:27:35.436: ---------------------------------
+13:27:35.436: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:27:35.436: [x264 encoder: 'simple_video_recording'] profile: high
+13:27:35.436: [x264 encoder: 'simple_video_recording'] settings:
+13:27:35.436: 	rate_control: CRF
+13:27:35.436: 	bitrate:      0
+13:27:35.436: 	buffer size:  0
+13:27:35.436: 	crf:          21
+13:27:35.436: 	fps_num:      60
+13:27:35.436: 	fps_den:      1
+13:27:35.436: 	width:        1280
+13:27:35.436: 	height:       720
+13:27:35.436: 	keyint:       250
+13:27:35.436: 
+13:27:35.444: libfdk_aac encoder created
+13:27:35.444: libfdk_aac bitrate: 192, channels: 2
+13:27:35.445: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+13:27:35.445: 	movflags=frag_keyframe+empty_moov+delay_moov
+13:27:35.446: ==== Recording Start ===============================================
+13:27:35.446: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/ash/2024-04-11 13-27-35.mp4'...
+13:27:35.455: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:28:44.453: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/ash/2024-04-11 13-27-35.mp4' stopped
+13:28:44.453: Output 'simple_file_output': stopping
+13:28:44.453: Output 'simple_file_output': Total frames output: 4107
+13:28:44.453: Output 'simple_file_output': Total drawn frames: 4140
+13:28:44.453: ==== Recording Stop ================================================
+13:28:44.468: libfdk_aac encoder destroyed
+13:32:58.552: ---------------------------------
+13:32:58.553: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:32:58.553: [x264 encoder: 'simple_video_recording'] profile: high
+13:32:58.553: [x264 encoder: 'simple_video_recording'] settings:
+13:32:58.553: 	rate_control: CRF
+13:32:58.553: 	bitrate:      0
+13:32:58.553: 	buffer size:  0
+13:32:58.553: 	crf:          21
+13:32:58.553: 	fps_num:      60
+13:32:58.553: 	fps_den:      1
+13:32:58.553: 	width:        1280
+13:32:58.553: 	height:       720
+13:32:58.553: 	keyint:       250
+13:32:58.553: 
+13:32:58.562: libfdk_aac encoder created
+13:32:58.562: libfdk_aac bitrate: 192, channels: 2
+13:32:58.562: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+13:32:58.562: 	movflags=frag_keyframe+empty_moov+delay_moov
+13:32:58.564: ==== Recording Start ===============================================
+13:32:58.564: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/ash/2024-04-11 13-32-58.mp4'...
+13:32:58.572: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:33:03.901: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/ash/2024-04-11 13-32-58.mp4' stopped
+13:33:03.901: Output 'simple_file_output': stopping
+13:33:03.901: Output 'simple_file_output': Total frames output: 287
+13:33:03.901: Output 'simple_file_output': Total drawn frames: 320
+13:33:03.901: ==== Recording Stop ================================================
+13:33:03.913: libfdk_aac encoder destroyed
+13:33:27.443: ---------------------------------
+13:33:27.443: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:33:27.443: [x264 encoder: 'simple_video_recording'] profile: high
+13:33:27.443: [x264 encoder: 'simple_video_recording'] settings:
+13:33:27.443: 	rate_control: CRF
+13:33:27.443: 	bitrate:      0
+13:33:27.443: 	buffer size:  0
+13:33:27.443: 	crf:          21
+13:33:27.443: 	fps_num:      60
+13:33:27.443: 	fps_den:      1
+13:33:27.443: 	width:        1280
+13:33:27.443: 	height:       720
+13:33:27.443: 	keyint:       250
+13:33:27.443: 
+13:33:27.453: libfdk_aac encoder created
+13:33:27.453: libfdk_aac bitrate: 192, channels: 2
+13:33:27.453: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+13:33:27.453: 	movflags=frag_keyframe+empty_moov+delay_moov
+13:33:27.454: ==== Recording Start ===============================================
+13:33:27.454: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/ash/2024-04-11 13-33-27.mp4'...
+13:33:27.462: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:34:11.330: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/ash/2024-04-11 13-33-27.mp4' stopped
+13:34:11.330: Output 'simple_file_output': stopping
+13:34:11.330: Output 'simple_file_output': Total frames output: 2600
+13:34:11.330: Output 'simple_file_output': Total drawn frames: 2633
+13:34:11.331: ==== Recording Stop ================================================
+13:34:11.344: libfdk_aac encoder destroyed
+13:35:02.059: ---------------------------------
+13:35:02.059: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:35:02.059: [x264 encoder: 'simple_video_recording'] profile: high
+13:35:02.059: [x264 encoder: 'simple_video_recording'] settings:
+13:35:02.059: 	rate_control: CRF
+13:35:02.059: 	bitrate:      0
+13:35:02.059: 	buffer size:  0
+13:35:02.059: 	crf:          21
+13:35:02.059: 	fps_num:      60
+13:35:02.059: 	fps_den:      1
+13:35:02.059: 	width:        1280
+13:35:02.059: 	height:       720
+13:35:02.059: 	keyint:       250
+13:35:02.059: 
+13:35:02.067: libfdk_aac encoder created
+13:35:02.067: libfdk_aac bitrate: 192, channels: 2
+13:35:02.067: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+13:35:02.067: 	movflags=frag_keyframe+empty_moov+delay_moov
+13:35:02.069: ==== Recording Start ===============================================
+13:35:02.069: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/ash/2024-04-11 13-35-02.mp4'...
+13:35:02.075: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+13:37:00.375: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/ash/2024-04-11 13-35-02.mp4' stopped
+13:37:00.375: Output 'simple_file_output': stopping
+13:37:00.375: Output 'simple_file_output': Total frames output: 7066
+13:37:00.375: Output 'simple_file_output': Total drawn frames: 7098
+13:37:00.376: ==== Recording Stop ================================================
+13:37:00.410: libfdk_aac encoder destroyed

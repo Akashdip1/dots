@@ -1,0 +1,15 @@
+[Default Applications]
+application/pdf=okularApplication_pdf.desktop
+application/octet-stream=gvim.desktop
+text/html=firefox.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/about=firefox.desktop
+x-scheme-handler/unknown=firefox.desktop
+application/epub+zip=com.github.johnfactotum.Foliate.desktop
+
+[Added Associations]
+application/pdf=okularApplication_pdf.desktop;
+application/octet-stream=gvim.desktop;
+application/epub+zip=firefox.desktop;com.github.johnfactotum.Foliate.desktop;
+audio/flac=io.bassi.Amberol.desktop;

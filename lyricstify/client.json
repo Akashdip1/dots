@@ -1,0 +1,6 @@
+{
+  "id": "67d042f7f0e94192a0c95398e16e11ed",
+  "secret": "043d91f40a424da19a51faafa6e9711c",
+  "code": "AQDv4Nmmuqhn0tsrd-GtLT7poyEaaRnBiLVjR1JEfqfNPCd_RmoPzydqAURMoZchDrM0G-CsbC_PdkuOkOCvh8WOpVt9LEAY0_ZalE-K0FidBhKwQyZye0aflcT8otdRkaqjq5WReB1CI2QmLm7focKPeOd-aVRiljBHlOLbWFFGO-HBGREkthcSmZ3cL2-lF32paqwWDpWJtqm2L1U4DMqDDF_Vs8A",
+  "redirectUri": "http://localhost:3000/api/v1/authorize"
+}

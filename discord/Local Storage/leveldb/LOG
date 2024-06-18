@@ -1,0 +1,6 @@
+2024/04/29-11:46:41.126 dbc4 Reusing MANIFEST /home/ash/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/04/29-11:46:41.127 dbc4 Recovering log #3
+2024/04/29-11:46:41.127 dbc4 Reusing old log /home/ash/.config/discord/Local Storage/leveldb/000003.log 
+2024/04/29-11:50:36.367 dbc5 Level-0 table #5: started
+2024/04/29-11:50:36.398 dbc5 Level-0 table #5: 3054555 bytes OK
+2024/04/29-11:50:36.400 dbc5 Delete type=0 #3

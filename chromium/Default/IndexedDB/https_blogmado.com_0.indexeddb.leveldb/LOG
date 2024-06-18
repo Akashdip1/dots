@@ -1,0 +1,13 @@
+2024/06/04-15:16:16.426 7f7a9 Reusing MANIFEST /home/ash/.config/chromium/Default/IndexedDB/https_blogmado.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/04-15:16:16.427 7f7a9 Recovering log #7
+2024/06/04-15:16:16.427 7f7a9 Reusing old log /home/ash/.config/chromium/Default/IndexedDB/https_blogmado.com_0.indexeddb.leveldb/000007.log 
+2024/06/04-15:16:16.484 7f7ac Level-0 table #11: started
+2024/06/04-15:16:16.486 7f7ac Level-0 table #11: 1342 bytes OK
+2024/06/04-15:16:16.488 7f7ac Delete type=0 #7
+2024/06/04-15:16:16.488 7f7a9 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 221 : 1
+2024/06/04-15:16:16.489 7f7a9 Compacting 1@0 + 1@1 files
+2024/06/04-15:16:16.490 7f7a9 Generated table #12@0: 28 keys, 670 bytes
+2024/06/04-15:16:16.490 7f7a9 Compacted 1@0 + 1@1 files => 670 bytes
+2024/06/04-15:16:16.491 7f7a9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/04-15:16:16.491 7f7a9 Delete type=2 #11
+2024/06/04-15:16:16.491 7f7a9 Manual compaction at level-0 from '\x00\x03\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 221 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

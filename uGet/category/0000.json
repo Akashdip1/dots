@@ -1,0 +1,1344 @@
+{
+	"info": {
+		"relation": {
+			"group": 0,
+			"priority": 1
+		},
+		"common": {
+			"name": "New 0",
+			"folder": "\/home\/ash",
+			"connect-timeout": 15,
+			"transmit-timeout": 30,
+			"retry-delay": 6,
+			"retry-limit": 99,
+			"retry-count": 0,
+			"max-connections": 1,
+			"max-upload-speed": 0,
+			"max-download-speed": 0,
+			"timestamp": 1
+		},
+		"category": {
+			"hosts": [
+				".edu",
+				".idv"
+			],
+			"schemes": [
+				"ftps",
+				"magnet"
+			],
+			"file-exts": [
+				"torrent",
+				"metalink"
+			],
+			"active-limit": 3,
+			"finished-limit": 300,
+			"recycled-limit": 300
+		}
+	},
+	"children": [
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 1728058616,
+					"total": 1728058616,
+					"elapsed": 3386,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1717491194,
+					"completed-time": 1717521438,
+					"messages": [
+					]
+				},
+				"common": {
+					"name": "Tool - AElig;nima (2019) [FLAC 24-96].zip",
+					"uri": "https:\/\/www.seedr.cc\/download\/archive\/097c9ed9464785ea5233e0ecb38071f53575d050f1ca6d52ad2b839b16f5592b?token=8329e78fefc9172b6a11b3ade8178509dc04fdc27edba07f1115326966de7b9a&exp=1717577583",
+					"file": "Tool - AElig;nima (2019) [FLAC 24-96].zip",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/\/Tool - AElig;nima (2019) [FLAC 24-96].zip",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 50901639,
+					"total": 50901639,
+					"elapsed": 26,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1717458373,
+					"completed-time": 1717458399,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1717458373
+						}
+					]
+				},
+				"common": {
+					"name": "com.stremio.one-1.6.12-2111650-armeabi-v7a.apk",
+					"uri": "https:\/\/dl.strem.io\/android\/v1.6.12-com.stremio.one\/com.stremio.one-1.6.12-2111650-armeabi-v7a.apk",
+					"file": "com.stremio.one-1.6.12-2111650-armeabi-v7a.apk",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/\/com.stremio.one-1.6.12-2111650-armeabi-v7a.apk",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 1051643389,
+					"total": 1051643389,
+					"elapsed": 977,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1717239708,
+					"completed-time": 1717240685,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1717239709
+						}
+					]
+				},
+				"common": {
+					"name": "Tame Impala - Lonerism [24 bit FLAC] vinyl.zip",
+					"uri": "https:\/\/www.seedr.cc\/download\/archive\/ececd8bd5c7a00c4d1ea4e95a8b3255b73d5964fc3da4c682262987a65ee823a?token=35fec5ea8352ee5934c7e4c7d4ed52519085f356c783121b6946007f4560ade6&exp=1717326093",
+					"file": "Tame Impala - Lonerism [24 bit FLAC] vinyl.zip",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/\/Tame Impala - Lonerism [24 bit FLAC] vinyl.zip",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 1238479999,
+					"total": 1238479999,
+					"elapsed": 2501,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1717236976,
+					"completed-time": 1717239478,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1717236979
+						}
+					]
+				},
+				"common": {
+					"name": "Tame Impala 2010 - Innerspeaker ( AU PBTHAL Vinyl 24-96 FLAC).zip",
+					"uri": "https:\/\/www.seedr.cc\/download\/archive\/1346dd1457afbe8cb301a8bd391f18d304a733c1b37894182ff794d7417bec91?token=2b4062e36e3139af2bb4520886ed5944d37f71d1411115ef65b1f22e97157b8f&exp=1717323357",
+					"file": "Tame Impala 2010 - Innerspeaker ( AU PBTHAL Vinyl 24-96 FLAC).zip",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/\/Tame Impala 2010 - Innerspeaker ( AU PBTHAL Vinyl 24-96 FLAC).zip",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 635845977,
+					"total": 635845977,
+					"elapsed": 617,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1717238640,
+					"completed-time": 1717239257,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1717238642
+						}
+					]
+				},
+				"common": {
+					"name": "Tame Impala - Currents (2015) 24-44.1 FLAC-BBM.zip",
+					"uri": "https:\/\/www.seedr.cc\/download\/archive\/ce0f16595e72b2b741e642da10354a48cc5d8541aac1778f6553931c8875ff1c?token=7b89f86e2d057f57c5ca9ef013ecadd7c0d842e8bbeed57d80572d5f2c29219b&exp=1717325029",
+					"file": "Tame Impala - Currents (2015) 24-44.1 FLAC-BBM.zip",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/\/Tame Impala - Currents (2015) 24-44.1 FLAC-BBM.zip",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 1665631486,
+					"total": 1665631486,
+					"elapsed": 899,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1717221916,
+					"completed-time": 1717222815,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1717221918
+						}
+					]
+				},
+				"common": {
+					"name": "Tool - Lateralus (2019) [FLAC 24-96].zip",
+					"uri": "https:\/\/www.seedr.cc\/download\/archive\/2d140147a875841f83368d5635fdc70d5cbc2933ee72ced04d2e0da90fafce74?token=04e59c412a9778d56a78c825e2f0f5f6782bc59028e3c37b1273c9d97bcd0495&exp=1717308286",
+					"file": "Tool - Lateralus (2019) [FLAC 24-96].zip",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/\/Tool - Lateralus (2019) [FLAC 24-96].zip",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 1753178803,
+					"total": 1753178803,
+					"elapsed": 625,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1714572483,
+					"completed-time": 1714573109,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1714572490
+						}
+					]
+				},
+				"common": {
+					"name": "Ferris.Buellers.Day.Off.1986.1080p.BluRay.x264.YIFY.mp4",
+					"uri": "https:\/\/de23.seedr.cc\/ff_get\/1745832801\/Ferris.Buellers.Day.Off.1986.1080p.BluRay.x264.YIFY.mp4?st=Wdg2USJ2EajLKaxp51-XNw&e=1714658862",
+					"file": "Ferris.Buellers.Day.Off.1986.1080p.BluRay.x264.YIFY.mp4",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/\/Ferris.Buellers.Day.Off.1986.1080p.BluRay.x264.YIFY.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 2710404896,
+					"total": 2710404896,
+					"elapsed": 2066,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1713938410,
+					"completed-time": 1713940476,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1713938411
+						}
+					]
+				},
+				"common": {
+					"name": "Once.Upon.A.TimeIn.Hollywood.2019.1080p.BluRay.x264-[YTS.LT].mp4",
+					"uri": "https:\/\/de21.seedr.cc\/ff_get\/1739565237\/Once.Upon.A.TimeIn.Hollywood.2019.1080p.BluRay.x264-[YTS.LT].mp4?st=j_NtCBmOtt7LD0tlHPuscw&e=1714024792",
+					"file": "Once.Upon.A.TimeIn.Hollywood.2019.1080p.BluRay.x264-[YTS.LT].mp4",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/\/Once.Upon.A.TimeIn.Hollywood.2019.1080p.BluRay.x264-[YTS.LT].mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 1649246626,
+					"total": 1649246626,
+					"elapsed": 11288,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1713714818,
+					"completed-time": 1713726106,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1713714819
+						}
+					]
+				},
+				"common": {
+					"name": "Reservoir Dogs.1992.BluRay.1080p.x264.YIFY.mp4",
+					"uri": "https:\/\/de17.seedr.cc\/ff_get\/1738491225\/Reservoir%20Dogs.1992.BluRay.1080p.x264.YIFY.mp4?st=CMPsRduJPnkd08vveb3VYg&e=1713801195",
+					"file": "Reservoir Dogs.1992.BluRay.1080p.x264.YIFY.mp4",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 15,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/\/Reservoir Dogs.1992.BluRay.1080p.x264.YIFY.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 2105568137,
+					"total": 2105568137,
+					"elapsed": 651,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1713427254,
+					"completed-time": 1713427905,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1713427255
+						}
+					]
+				},
+				"common": {
+					"name": "We Are The Millers - Extended Edition Comedy 2013 Eng Subs 1080p [H264-mp4].mp4",
+					"uri": "https:\/\/de19.seedr.cc\/ff_get\/1736932767\/We%20Are%20The%20Millers%20-%20Extended%20Edition%20Comedy%202013%20Eng%20Subs%201080p%20[H264-mp4].mp4?st=p6zJzfGRLfhf-R-O8yh4bw&e=1713513642",
+					"file": "We Are The Millers - Extended Edition Comedy 2013 Eng Subs 1080p [H264-mp4].mp4",
+					"folder": "\/home\/ash",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/We Are The Millers - Extended Edition Comedy 2013 Eng Subs 1080p [H264-mp4].mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 1980924683,
+					"total": 1980924683,
+					"elapsed": 729,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1713296865,
+					"completed-time": 1713297594,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1713296866
+						}
+					]
+				},
+				"common": {
+					"name": "Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4",
+					"uri": "https:\/\/de20.seedr.cc\/ff_get\/1736290144\/Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4?st=JqZ6fCjk3RocEm-JOy2P2g&e=1713383259",
+					"file": "Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4",
+					"folder": "\/home\/ash",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 419934821,
+					"total": 419934821,
+					"elapsed": 459,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1712605828,
+					"completed-time": 1712606519,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1712606061
+						}
+					]
+				},
+				"common": {
+					"name": "The.Queens.Gambit.S01E07.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"uri": "https:\/\/de13.seedr.cc\/ff_get\/1732443804\/The.Queens.Gambit.S01E07.720p.NF.WEBRip.x264-GalaxyTV.mkv?st=eU5XprDiKx1g_OmBk3gVSg&e=1712692215",
+					"file": "The.Queens.Gambit.S01E07.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"folder": "\/home\/ash",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/The.Queens.Gambit.S01E07.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 339802427,
+					"total": 339802427,
+					"elapsed": 505,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1712605812,
+					"completed-time": 1712606317,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1712605813
+						}
+					]
+				},
+				"common": {
+					"name": "The.Queens.Gambit.S01E06.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"uri": "https:\/\/de13.seedr.cc\/ff_get\/1732443803\/The.Queens.Gambit.S01E06.720p.NF.WEBRip.x264-GalaxyTV.mkv?st=0wKgtMKjcyKpQDhG87makA&e=1712692202",
+					"file": "The.Queens.Gambit.S01E06.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"folder": "\/home\/ash",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/The.Queens.Gambit.S01E06.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 252947221,
+					"total": 252947221,
+					"elapsed": 468,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1712605798,
+					"completed-time": 1712606266,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1712605800
+						}
+					]
+				},
+				"common": {
+					"name": "The.Queens.Gambit.S01E05.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"uri": "https:\/\/de13.seedr.cc\/ff_get\/1732443802\/The.Queens.Gambit.S01E05.720p.NF.WEBRip.x264-GalaxyTV.mkv?st=J3m9bnAFwCxGtuE_3iA-PQ&e=1712692186",
+					"file": "The.Queens.Gambit.S01E05.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"folder": "\/home\/ash",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/The.Queens.Gambit.S01E05.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 270426544,
+					"total": 270426544,
+					"elapsed": 278,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1712605782,
+					"completed-time": 1712606060,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1712605783
+						}
+					]
+				},
+				"common": {
+					"name": "The.Queens.Gambit.S01E04.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"uri": "https:\/\/de13.seedr.cc\/ff_get\/1732443801\/The.Queens.Gambit.S01E04.720p.NF.WEBRip.x264-GalaxyTV.mkv?st=Kn5O2WHsMES21hu9g8cH-g&e=1712692166",
+					"file": "The.Queens.Gambit.S01E04.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"folder": "\/home\/ash",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/The.Queens.Gambit.S01E04.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 378995925,
+					"total": 378995925,
+					"elapsed": 409,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1712598318,
+					"completed-time": 1712599650,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1712599242
+						}
+					]
+				},
+				"common": {
+					"name": "The.Queens.Gambit.S01E02.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"uri": "https:\/\/de13.seedr.cc\/ff_get\/1732443799\/The.Queens.Gambit.S01E02.720p.NF.WEBRip.x264-GalaxyTV.mkv?st=IP4Ryo27YujcsMkdw8956w&e=1712684714",
+					"file": "The.Queens.Gambit.S01E02.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"folder": "\/home\/ash\/Downloads\/Queen's Gambit",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/Queen's Gambit\/The.Queens.Gambit.S01E02.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 286233901,
+					"total": 286233901,
+					"elapsed": 358,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1712598332,
+					"completed-time": 1712599629,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1712599274
+						}
+					]
+				},
+				"common": {
+					"name": "The.Queens.Gambit.S01E03.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"uri": "https:\/\/de13.seedr.cc\/ff_get\/1732443800\/The.Queens.Gambit.S01E03.720p.NF.WEBRip.x264-GalaxyTV.mkv?st=ST6nqVLoAb1B60nEbh4riQ&e=1712684727",
+					"file": "The.Queens.Gambit.S01E03.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+					"folder": "\/home\/ash\/Downloads\/Queen's Gambit",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/Queen's Gambit\/The.Queens.Gambit.S01E03.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 2
+				},
+				"progress": {
+					"complete": 285219954,
+					"total": 285219954,
+					"elapsed": 272,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1712598165,
+					"completed-time": 1712599534,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1712599266
+						}
+					]
+				},
+				"common": {
+					"name": "The.Queens.Gambit.S01E01.720p.NF.WEBRip.x264-GalaxyTV.0.mkv",
+					"uri": "https:\/\/de13.seedr.cc\/ff_get\/1732443798\/The.Queens.Gambit.S01E01.720p.NF.WEBRip.x264-GalaxyTV.mkv?st=8cJGgb_PqEjC-zGKjINahQ&e=1712684495",
+					"file": "The.Queens.Gambit.S01E01.720p.NF.WEBRip.x264-GalaxyTV.0.mkv",
+					"folder": "\/home\/ash\/Downloads\/Queen's Gambit",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/Queen's Gambit\/The.Queens.Gambit.S01E01.720p.NF.WEBRip.x264-GalaxyTV.0.mkv",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 160,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 0,
+					"total": 0,
+					"elapsed": 1,
+					"uploaded": 0,
+					"percent": 0
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1717487875,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Server response code : 403",
+							"type": 3,
+							"time": 1717487876
+						}
+					]
+				},
+				"common": {
+					"name": "api.php",
+					"uri": "https:\/\/rapidgrab.ovh\/api.php?id=aHR0cHM6Ly9jbGtzLnByby9zdD9hcGk9MjNlYTY4NTQxYTJiYzQzMjJlYjZlMGE5MWU4NDhkYzM3NmJiNmYyMyZ1cmw9aHR0cHM6Ly9yYXBpZGdyYWIub3ZoLz9maWxlPTZlZGU3NDg2MGY=",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 136,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 268,
+					"total": 268,
+					"elapsed": 5,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1717457275,
+					"completed-time": 1717457280,
+					"messages": [
+						{
+							"string": "Not Resumable",
+							"type": 2,
+							"time": 1717457280
+						}
+					]
+				},
+				"common": {
+					"name": "4565az.part01.rar",
+					"uri": "http:\/\/uploaded.net\/file\/te9w2oin\/4565az.part01.rar",
+					"file": "4565az.part01.rar",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/ash\/Downloads\/\/4565az.part01.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 128,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 0,
+					"total": 0,
+					"elapsed": 1480,
+					"uploaded": 0,
+					"percent": 0
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1717455731,
+					"completed-time": 0,
+					"messages": [
+					]
+				},
+				"common": {
+					"name": "4565azup.rar",
+					"uri": "https:\/\/rapidgator.net\/file\/00474899a677b385fddd418f13566c8b\/4565azup.rar",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 70,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 128,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 0,
+					"total": 0,
+					"elapsed": 618,
+					"uploaded": 0,
+					"percent": 0
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1717456590,
+					"completed-time": 0,
+					"messages": [
+					]
+				},
+				"common": {
+					"name": "114215.part01.rar",
+					"uri": "https:\/\/rapidgator.net\/file\/0d677e27c45d7ac69f2b35a76e48ff16\/114215.part01.rar",
+					"folder": "\/home\/ash\/Downloads\/",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 29,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+					]
+				}
+			},
+			"children": [
+			]
+		}
+	]
+}
+

@@ -1,0 +1,30 @@
+
+(waybar:6018): Gtk-WARNING **: 10:07:17.237: Theme parsing error: gtk.css:6616:68: Invalid name of pseudo-class
+[2024-03-28 10:07:17.275] [info] Using configuration file /home/ash/.config/waybar/config
+[2024-03-28 10:07:17.276] [info] Including resource file: ~/.config/waybar/modules
+[2024-03-28 10:07:17.280] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2024-03-28 10:07:17.280] [info] Using CSS file /home/ash/.config/waybar/style.css
+[2024-03-28 10:07:17.293] [warning] Failed to open bar ipc connection: Socket path is empty
+[2024-03-28 10:07:17.294] [info] Hyprland IPC starting
+[2024-03-28 10:07:17.297] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2024-03-28 10:07:17.335] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+/home/ash/.config/hypr/scripts/WaybarCava.sh: line 39: cava: command not found
+[2024-03-28 10:07:17.490] [info] Bar configured (width: 1424, height: 32) for output: eDP-1
+[2024-03-28 10:07:20.637] [info] Quitting.

@@ -1,0 +1,6 @@
+2024/06/04-14:53:05.305 7f7a9 Creating DB /home/ash/.config/chromium/Default/IndexedDB/https_bcvc.ink_0.indexeddb.leveldb since it was missing.
+2024/06/04-14:53:05.308 7f7a9 Reusing MANIFEST /home/ash/.config/chromium/Default/IndexedDB/https_bcvc.ink_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/04-14:53:05.416 7f7bf Level-0 table #5: started
+2024/06/04-14:53:05.417 7f7bf Level-0 table #5: 1378 bytes OK
+2024/06/04-14:53:05.418 7f7bf Delete type=0 #3
+2024/06/04-14:53:05.419 7f7a9 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
